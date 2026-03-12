@@ -39,7 +39,7 @@ public class Task11 {
         if (i >= 0 && i < 3 && j >= 0 && j < 3) {
             System.out.println("- значення a_ij матриці А: " + A[i][j]);
         } else {
-            System.out.println("Помилка: індекси повинні бути від 0 до 2.");
+            System.out.println("Помилка: індекси повинні бути від 0 до 2");
         }
 
         scanner.close();
