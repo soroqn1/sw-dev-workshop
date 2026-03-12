@@ -35,7 +35,7 @@ public class Task11 {
             }
             System.out.println();
         }
-        
+
         if (i >= 0 && i < 3 && j >= 0 && j < 3) {
             System.out.println("- значення a_ij матриці А: " + A[i][j]);
         } else {
